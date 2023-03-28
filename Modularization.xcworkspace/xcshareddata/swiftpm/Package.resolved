@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "ios-expert-profile",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ramafebri/ios-expert-profile.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "8e3656a3c53e4c0cc2c2e6e03133a2bc26dc36ed"
+      }
+    }
+  ],
+  "version" : 2
+}
